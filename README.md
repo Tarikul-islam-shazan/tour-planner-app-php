@@ -1,12 +1,10 @@
 # TourPlanerDemo
 
 - Hotle Boking system
-   [![Build Status](https://github.com/tarikulIslam346/TourPlanerDemo?branch=master)](https://github.com/tarikulIslam346/TourPlanerDemo)
-[![Windows Build Status](https://github.com/tarikulIslam346/TourPlanerDemo?branch=master&svg=true)](https://github.com/tarikulIslam346/TourPlanerDemo/branch/master)
 - Admin page :+1: 
 - Tour Planner [Contribution guidelines for this project](docs/CONTRIBUTING.md) :shipit:
   - Hotel
-  - Tansport
+  - Tansport [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
   - Estm. cost
   
   
