@@ -10,6 +10,10 @@
   
   
  # Admin
+ 
+   ```
+   Admin Authenication
+   ```
   
   - Create/update/Delete Hotel information
   
